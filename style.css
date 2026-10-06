@@ -1,0 +1,8 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=800&q=80');
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: top center;
+    color: green;
+    font-family: Arial, sans-serif;
+}
