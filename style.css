@@ -6,3 +6,56 @@ body {
     color: green;
     font-family: Arial, sans-serif;
 }
+h1
+{
+    color: red;
+    text-align: center;
+    font-size: 18pt;
+    text-transform: uppercase;
+    background-color: green;
+    text-shadow: 1px 2px 3px gray;
+    border-width: 3px;
+    border-style: dashed;
+    border-radius: 50px;
+}
+h2
+{
+    color:white;
+    font-size: 16pt;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+h3
+{
+    color: blue;
+    font-size: 14pt;
+    font-weight: bold;
+}
+#s1::first-line
+{
+    text-transform: uppercase;
+    color: red;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+#p1
+{
+    color:green;
+    text-align: right;
+    word-spacing: 3px;
+    font-variant: small-caps;
+
+}
+#p2
+{
+    color:blue;
+    word-spacing: 3px;
+}
+#s1 hr
+{
+    background-color: red;
+    width: 50%;
+    height: 5px;
+}
