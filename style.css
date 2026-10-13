@@ -59,3 +59,27 @@ h3
     width: 50%;
     height: 5px;
 }
+.n1
+{
+    list-style-type: square;
+}
+.n2
+{
+    list-style-type: disc;
+}
+.n3
+{
+    list-style-type: circle;
+}
+.nn1
+{
+    list-style-type: upper-roman;
+}
+.nn2
+{
+    list-style-type: upper-alpha;
+}
+.nn3
+{
+    list-style-type: alpha;
+}
